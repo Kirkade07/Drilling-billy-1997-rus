@@ -1,6 +1,10 @@
-﻿Запуск игры
+Русская версия игры Drilling Billy(1997) + Запуск на Windows
+
+Запуск игры
 -----	
-1) Запустить файл «Sound_setup.exe»:
+1)Распаковать архив в любое удобное место.
+
+2) Запустить файл «Sound_setup.exe»:
 	В Main Menu выберите Select playback device и нажмите Enter.
 	В списке Select Playback Device выберите Sound Blaster Pro/16/AWE32, Enter.
 	Select Base I/O Port: выберите 220, Enter.
@@ -9,7 +13,7 @@
 	Select Sound Quality: выберите Very High Quality, Enter.
 	Выберите Save and Exit и нажмите Enter.
 
-2) Запускайте игру через «Billy.exe».
+3) Запускайте игру через «Billy.exe».
 
 
 Клавиши
