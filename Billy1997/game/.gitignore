@@ -1,0 +1,7 @@
+# Логи, которые создаёт игра
+*.LOG
+*.log
+
+# Личный прогресс и рекорды
+SETTINGS/SAVEGAME
+SETTINGS/HISCORE

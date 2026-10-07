@@ -1,0 +1,3 @@
+sound: fx=100, cd=6;
+misc: language=russian, speech=en, joystick=0, memory=8, playintro=1, cddrive=d;
+screen: brightness=50, contrast=50;

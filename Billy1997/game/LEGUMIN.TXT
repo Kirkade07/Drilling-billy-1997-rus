@@ -1,0 +1,121 @@
+^Ci tiu teksto enhavas ^generalajn informojn pri Billy.
+Uzantoj de OS/2 rigardu anka~u en OS2HELP sur la KD.
+
+^Ci tiu teksto legeblas en la angla en README.TXT.
+This text is available in English in README.TXT.
+
+
+Instalaj problemoj.
+-------------------
+
+Se via ekrano i^gas nigra a~u INSTALL.EXE reportas problemojn kun VESA-
+grafiko provu "INSTALL.EXE -g640x480 -nocol" kaj rigardu 
+"Starti Billy en 640x480".
+
+Eble la problemo estas ke vi bezonas VESA-adaptilon por DOS, ekz. UNIVBE.EXE.
+Eblas senkoste akiri tion ^ce http://www.scitechsoft.com/ a~u ^ce la vendisto
+de via grafikkarto.
+
+
+Kiel mane al^gustigi.
+---------------------
+
+La elektoj de la ludo estas sekurigita en SETTINGS\OPTIONS.TXT. Uzu
+redaktilon por manipuli elektojn mane. Jen ekzemplo de OPTIONS.TXT:
+ 
+sound: fx=100, cd=26;
+misc: language=esperanto, memory=16, playintro=1, cddrive=d;
+screen: brightness=50, contrast=50;
+
+ - language estas la (tekst-)lingvo uzata en la ludo.
+ - memory estas la kvanto de uzebla memoro, a~u 8 a~u 16 megabajtoj. ^Ciuj
+aliaj valoroj estas nevalidaj. Se vi havas pli ol 16 megabajtoj da RAMo 
+metu memory=16, se vi havas inter 8 and 16 megabajtojn metu memory=8.
+Anstata~u ^san^gi ^ci tie vi vere devas reinstali, ^car la 8 kaj 16
+megabajtaj versioj uzas malsamajn dosierojn.
+ - cddrive estas la letero de la kompaktdisko kun Billy. cddrive=d signifas
+ke la KD estas D:\. Memoru NE meti ":" post la letero.
+
+Se la ludo ne povas starti post ^san^go de la elektoj de OPTIONS.TXT, ne paniku.
+La ludo mem kreas la dosieron se ^gi ne ekzistas - do vi povas simple forigi 
+nefunkciantan OPTIONS.TXT.
+
+
+
+Parametroj.
+-----------
+
+Kelkaj elektoj ^san^geblas per komando-parametroj.
+Startu "BILLY.EXE -help" por vidi la eblajn parametrojn.
+
+
+
+Mi ^san^gis mian komputilon kaj nun Billy ne startas plu.
+---------------------------------------------------------
+
+A~u reinstalu a~u ^san^gu OPTIONS.TXT (rigardu "Kiel mane al^gustigi") kaj 
+startu SETSOUND.EXE.
+
+
+
+Problemoj kun sono.
+--------------------
+
+Billy uzas la DSIK sonsistemon por sonefektoj. En la DSIK dosierujo sur la KD 
+estas helpo kiu eble solvas vian problemon.
+
+
+
+Starti Billy en 640x480.
+-------------------------
+
+Se vi volas ludi Billy per portebla komputilo a~u per sistemo kiu ne subtenas
+grafikon je 800x600 punktoj vi povas fakte ludi Billy en grafikfajneco de 
+640x480 punktoj per la -g640x480 parametro. Tio povas rapidigi la programon
+en kelkaj sistemoj, ekzemple ni provis kun 486 25 MHz kun tre bonaj rezultoj.
+En tiu fajneco la klavoj End, Home, PgUp kaj PgDn kontrolas kiu parto de la
+ludo estas videbla sur la ekrano.
+
+
+Sekuritaj ludoj.
+----------------
+
+Kiam oni finludas mondon la ludo estas sekurita sur la disko. Estas nur unu 
+sekurita ludo po mondo po facilecnivelo, do se la sama mondo (kaj 
+facilecnivelo) estas finludita denove, la malnova sekurita ludo estas
+forigita. Por eviti tion vi povas kopii la dosieron SETTINGS\SAVEGAME.
+
+
+
+Lingvoj.
+--------
+
+Se vi ^san^gas tekstan lingvon vi devas restarti la ludon anta~u tio
+efektivi^gos. Se vi erare ^san^gas al lingvon kiun vi ne komprenas vi povas
+al^gustigi tion rekte en OPTIONS.TXT (rigardu "Kiel mane al^gustigi.") a~u uzu
+la -lang parametron.
+
+Parollingvon eblas ^san^gi per la al^gustiga menu kaj efektivi^gos tuj.
+Nur Esperanto kaj angla estas elekteblaj.
+
+Se via preferata lingvo ne elekteblas kaj vi pretas mem traduki al ^gi,
+bonvolu kontakti nin.
+
+
+Navigilo.
+---------
+
+Nur navigilo en porto A estas subtenata. La butonoj funkcias jene:
+Butono 1: Fosi/plenigi truon
+Butono 2: Plenigi truon
+Butono 1 kaj 2 samtempe: ^Jeti pilkon
+Butono 3: ^Jeti pilkon (nur tri-butonaj "game pads" kaj navigiloj)
+
+
+
+Pli da helpo.
+-------------
+
+Rigardu la mem-montrantaj demooj (ili estas ludataj kiam oni lasas la
+ludon 5-10 minutojn en la ^cefa menuo).
+

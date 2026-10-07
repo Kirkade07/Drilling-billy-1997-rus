@@ -1,0 +1,2 @@
+pointtalpop:		fil=samples\miscl8\point.svx,		volume=99, prioritet=5;
+stamper:			fil=samples\bmove8\fodtap.svx,	kanal=0, volume=99, prioritet=5;

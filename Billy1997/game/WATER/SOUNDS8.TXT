@@ -1,0 +1,106 @@
+sostjernekloner:		fil=samples\monst8\stjerne.svx,	volume=99, prioritet=5;
+kisteramt:			fil=samples\monst8\kiste.svx,		volume=99,	prioritet=5;
+
+magiskstige:		fil=samples\miscl8\maglad.svx,	volume=99, prioritet=5;
+monstertale:		fil=samples\miscl8\_off_.svx,	volume=0, prioritet=0;
+
+hemmeligplatform:		fil=samples\miscl8\hulnus.svx,	volume=99, prioritet=5;
+billyramt:			fil=samples\btalk8\auch.svx,		kanal=1, volume=99, prioritet=5;
+monsterramtafbold:	fil=samples\monst8\ramt1.svx,		volume=99, prioritet=5;
+pointtalpop:		fil=samples\miscl8\point.svx,		volume=99, prioritet=5;
+portal:			fil=samples\miscl8\portal.svx,	volume=99, prioritet=5;
+portalenter:		fil=samples\btalk8\portin.svx,	kanal=1, volume=99, prioritet=5;
+maseoptrin1:		fil=samples\monst8\mase1.svx,		volume=99, prioritet=5;
+maseoptrin2:		fil=samples\monst8\mase2.svx,		volume=99, prioritet=5;
+maseoptrin3:		fil=samples\monst8\mase3.svx,		volume=99, prioritet=5;
+monsterlander:		fil=samples\monst8\lives.svx,		volume=99, prioritet=5;
+afsloeringspil:		fil=samples\miscl8\arrow.svx,		volume=99, prioritet=5;
+fremfrasky:			fil=samples\items8\appear.svx,	volume=99, prioritet=5;
+tryllebog:			fil=samples\items8\bog.svx,		kanal=1, volume=99, prioritet=5;
+
+regnbue:			fil=samples\items8\bue.svx,		volume=99, prioritet=7;
+regnbuebrugt:		fil=samples\miscl8\regn.svx,		volume=99, prioritet=7;
+
+jaws:				fil=samples\monst8\jaws.svx,		volume=99, prioritet=5;
+
+boblespraenger:		fil=samples\miscl8\bubblow.svx,	kanal=0, volume=99, prioritet=5;
+billyindiboble:		fil=samples\miscl8\bubinto.svx,	volume=99, prioritet=5;
+boblesvaever:   		fil=samples\miscl8\_off_.svx,	volume=0, prioritet=0;
+boblekaskade:		fil=samples\miscl8\bubbles.svx,	volume=99, prioritet=5;
+
+samlerpoint:            fil=samples\items8\point1.svx,	volume=99, prioritet=1;
+samlerpoint:            fil=samples\items8\point4.svx,	volume=99, prioritet=1;
+samlerpoint:            fil=samples\items8\point5.svx,	volume=99, prioritet=1;
+samlerpoint:            fil=samples\items8\point6.svx,	volume=99, prioritet=1;
+
+billygaarhojrevenstre:	fil=samples\bmove8\sand1.svx,	kanal=0, volume=25, prioritet=5, rate=10000;
+billygaarhojrevenstre:	fil=samples\bmove8\sand2.svx,	kanal=0, volume=30, prioritet=5, rate=9000;
+billygaarhojrevenstre:	fil=samples\bmove8\sand3.svx,	kanal=0, volume=35, prioritet=5, rate=9250;
+billygaarhojrevenstre:	fil=samples\bmove8\sand4.svx,	kanal=0, volume=30, prioritet=5, rate=9500; 
+
+billygaaropned:		fil=samples\bmove8\wlad1.svx,	kanal=0, volume=25, prioritet=5;
+billygaaropned:		fil=samples\bmove8\wlad2.svx,	kanal=0, volume=30, prioritet=5;
+billygaaropned:		fil=samples\bmove8\wlad3.svx,	kanal=0, volume=27, prioritet=5;
+billygaaropned:		fil=samples\bmove8\wlad4.svx,	kanal=0, volume=29, prioritet=5;
+
+billyhopper:            fil=samples\btalk8\kant1.svx,	kanal=1, volume=99, prioritet=5;
+
+billyfalderlangt:		fil=samples\btalk8\fald1.svx,	kanal=1, volume=99, priotitet=5, rate=9500;
+billyfalderlangt:		fil=samples\btalk8\fald2.svx,	kanal=1, volume=99, priotitet=5;
+
+billylander:            fil=samples\btalk8\lande1.svx,	kanal=1, volume=70, prioritet=5;
+
+billyhakker:		fil=samples\bmove8\hak1.svx,		kanal=0, volume=99, prioritet=5;
+billyhakker:		fil=samples\bmove8\hak2.svx,		kanal=0, volume=99, prioritet=5;
+billyhakker:		fil=samples\bmove8\hak3.svx,		kanal=0, volume=99, prioritet=5;
+billyhakker:		fil=samples\bmove8\hak4.svx,		kanal=0, volume=99, prioritet=5;
+
+pipfugle:			fil=samples\bmove8\birds.svx,	kanal=1, volume=99, prioritet=9;
+
+stigeston:              fil=samples\btalk8\stoen1.svx,	kanal=1, volume=60, prioritet=5;
+
+fniser:			fil=samples\btalk8\wait.svx,		kanal=1, volume=99, prioritet=5;
+
+kasterbold:             fil=samples\btalk8\kaste.svx,	kanal=1, volume=99, prioritet=5;
+
+stamper:			fil=samples\bmove8\fodtap.svx,	kanal=0, volume=99, prioritet=5;
+
+lunte:                  fil=samples\miscl8\lunte.svx,	volume=40, prioritet=8;
+eksplosion:             fil=samples\miscl8\bomb.svx,		volume=99, prioritet=8;
+
+borer:                  fil=samples\bmove8\drill1.svx,	kanal=0, volume=99, prioritet=5;
+
+hamrer:                 fil=samples\bmove8\knock1.svx,	kanal=0, volume=99, prioritet=5, rate=9000;
+
+cratelander:		fil=samples\miscl8\crate1.svx,	volume=99, prioritet=7;
+
+bi:                     fil=samples\monst8\bee.svx,		volume=70, prioritet=9, loop=1;
+
+monsterpopper:          fil=samples\monst8\gone.svx,		volume=99, prioritet=5;
+
+billysejrsraab:	      fil=samples\btalk8\gotya.svx,	kanal=1, volume=99, prioritet=5;
+billysejrsraab:	      fil=samples\btalk8\noprob.svx,	kanal=1, volume=99, prioritet=5;
+billysejrsraab:         fil=samples\btalk8\cake.svx,		kanal=1, volume=99, prioritet=5;
+billysejrsraab:         fil=samples\btalk8\lucky.svx,	kanal=1, volume=99, prioritet=5;
+
+monsterfalder:          fil=samples\monst8\puff3.svx,	volume=99, prioritet=5;
+monsterihul:            fil=samples\monst8\pop.svx,		volume=99, prioritet=5;
+
+hurryup:                fil=samples\btalk8\hurry3.svx,	volume=99, prioritet=9;
+
+rodpotion:              fil=samples\items8\potrod.svx,	volume=99, prioritet=7;
+gronpotion:             fil=samples\items8\potgron.svx,	volume=99, prioritet=7;
+blaapotion:             fil=samples\items8\potblaa.svx, 	volume=99, prioritet=7;
+
+lobesko:                fil=samples\items8\shoe.svx,		volume=99, prioritet=7;
+tordensky:              fil=samples\items8\lyn.svx,		volume=99, prioritet=7;
+ring:                   fil=samples\items8\wand4.svx,	volume=99, prioritet=7;
+tryllestav:             fil=samples\items8\wand1.svx,	volume=99, prioritet=7;
+tennisketcher:          fil=samples\items8\ketch.svx,	volume=99, prioritet=7;
+tennisbold:             fil=samples\items8\ball.svx,		volume=35, prioritet=7;
+bombe:                  fil=samples\items8\fanf.svx,		volume=99, prioritet=7;
+krafthandske:           fil=samples\items8\glove.svx,	volume=99, prioritet=7;
+xtraliv:                fil=samples\items8\life.svx,		volume=99, prioritet=7;
+udloscrate:             fil=samples\items8\opcra.svx,	volume=99, prioritet=7;
+luftbor:			fil=samples\items8\luftbor.svx,	volume=99, prioritet=7;
+xtratid:			fil=samples\items8\xtratid.svx,	volume=99, prioritet=7;

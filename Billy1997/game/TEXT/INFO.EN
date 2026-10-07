@@ -1,0 +1,121 @@
+layout: pages=5;
+figure: x=0, y=20, page=2, name=ring;
+figure: x=10, y=105, page=2, name=bold;
+figure: x=0, y=170, page=2, name=handske;
+figure: x=0, y=235, page=2, name=bor;
+figure: x=0, y=310, page=2, bombe;
+figure: x=0, y=360, page=2, regnbue;
+figure: x=0, y=425, page=2, stav;
+figure: x=0, y=480, page=2, ur;
+figure: x=0, y=535, page=2,name=ketcher;
+figure: x=0, y=1, page=3, bog;
+figure: x=0, y=55, page=3, sko;
+                The game
+
+The aim of the game is to guide Billy through the
+level knocking the monsters through the holes you
+dig. when a monster is trapped in a hole billy can
+then close it causing the monster to fall down and
+disappear. some monsters are more tough than others
+and need to fall several floors before they dis-
+appear. if billy is not fast enough the trapped
+monster will dig itself out of the hole and become
+annoyed.
+
+                 Bonusses
+
+billy often finds things that can help him on his
+journey. some of these items are points, others
+have special abilities. most of them are auto-
+matically collected as billy walks over them, how-
+ever, some needs to be picked up. this is done by
+pausing on top of the item.
+
+
+
+
+    the magic ring gives points whenever billy
+    jumps through a hole.
+
+    use the ctrl-key to throw tennisballs at the
+    monsters.
+
+    the powerglove enables billy to close the
+    holes faster.
+
+    the powerdrill will quickly become one of
+    billy's favourites.
+
+    kaboooom!
+
+    the rainbow protects billy.
+
+    hey presto! a magic ladder. press up or down
+    along with the digging key.
+
+    the alarm clock resets the time.
+
+    makes billy throw tennisballs harder.
+
+    yiiippeeeee! the arcane book transforms one of
+    billy's items into a permanent one.
+
+    the trainers, the more the better.
+
+
+
+                   controls
+
+arrow up        billy climbs up
+arrow down      billy climbs down
+arrow right     billy walks to the right
+arrow left      billy walks to the left
+spacebar        billy digs/closes a hole
+alt             billy digs/closes a hole
+ctrl            billy throws a tennisball
+shift           billy closes a hole
+p               pauses the game
+esc             ends the game and returns to the
+                main menu
+enter           accesses option
+
+
+   
+
+          billy was developed by:
+              northwind soft
+ 
+Piet Kargaard:     idea and graphics.
+Bo N›rgaard:     3d graphics.
+David filskov:     Sound effects and music.
+sune m pedersen:     cd music.
+Troels Nordfalk:   Programming.
+Jacob Nordfalk:   Additional Programming.
+morten bjergmose:  miscellaneous.
+
+                Thanks to:
+
+Henrik-Steen:      for the DOS CD-ROM library.
+erik schack:        for the home-page.
+lena sandberg:     for singing.
+and all the others who gave a hand.
+
+         take a look at our homepage
+              www.intense.com
+
+
+
+
+
+
+This program uses the DSIK sound system for
+WATCOM C/C++ and DOS/4GW from Carlos Hasan.
+Questions to the library should be directed
+to:
+hbsoftware@aol.com, Tel.: (707) 451-9653
+
+
+
+
+
+                      press esc to return.

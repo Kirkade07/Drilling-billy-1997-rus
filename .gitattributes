@@ -1,0 +1,11 @@
+*.bin filter=lfs diff=lfs merge=lfs -text
+*.bat text eol=crlf
+*.cmd text eol=crlf
+*.conf text eol=crlf
+*.cs text eol=crlf
+*.EXE binary
+*.exe binary
+*.dll binary
+*.ico binary
+*.DB binary
+Billy1997/game/** -text

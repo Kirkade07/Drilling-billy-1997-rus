@@ -1,0 +1,243 @@
+ALPHABETSTR:
+	english="0123456789abcdefghijklmnopqrstuvwxyz.СЫЖ,_?()!+-/\\%-:;сЗ~^я`∙%",
+	russian="0123456789абвгдежзийклмнопрстуфхцчшщ.ъыь,_?()!+-/\\%-:;эюўё'`∙%░▒▓";
+doublechars:
+	english="Вяe",
+	russian="■`∙";
+OPTIONSTR:
+	english="Options",
+	russian="настройки";
+VIEWHISCORESTR:
+	english="View Highscores",
+	russian="рекорды";
+INFORMATIONSTR:
+	english="Information",
+	russian="информациў";
+EXITGAMESTR:
+	english="Exit Game",
+	russian="выход";
+CDVOLSTR:
+	english="CD Volume",
+	russian="громкость музыки";
+SOUNDVOLSTR:
+	english="Sound Volume",
+	russian="громкость звука";
+BRIGHTNESSSTR:
+	english="Brightness",
+	russian="ўркость";
+CONTRASTSTR:
+	english="Contrast",
+	russian="контраст";
+PLAYINTROSTR:
+	english="Play intro",
+	russian="показать заставку";
+YESSTR:
+	english="Yes",
+	russian="да";
+NOSTR:
+	english="No",
+	russian="нет";
+RETURNTOMAINMENUSTR:
+	english="Return To Main Menu",
+	russian="в главное меню";
+GETREADYSTR:
+	english="Get ready!",
+	russian="приготовьсў!";
+INSTHEADLNSTR:
+	english="Billy Installation Menu!",
+	russian="установка билли!";
+SYSTEMMEMSTR:
+	english="System Memory: ",
+	russian="памўть: ";
+INSTALLATIONSIZESTR:
+	english="HD Installation Size: ",
+	russian="объём установки: ";
+DESTINATIONSTR:
+	english="Destination path:",
+	russian="путь установки:";
+CANCELSTR:
+	english="Cancel!",
+	russian="отмена!";
+OKSTR:
+	english="Okay!",
+	russian="готово!";
+HDMINSTR:
+	english="5 MB (Minimum)",
+	russian="5 мб (минимум)";
+HDMEDSTR:
+	english="20 MB (Medium)",
+	russian="20 мб (средне)";
+HDMAXSTR:
+	english="20 MB (Full)",
+	russian="20 мб (полнаў)";
+OUTOFHDSPACESTR:
+	english="Insufficient HD-space",
+	russian="мало места на диске";
+ILLEGALPATHSTR:
+	english="Illegal path or drive specification",
+	russian="неверный путь или диск";
+INSTSUCCSTR:
+	english="Installation Succesful.\nNow type 'Billy' to start the game!",
+	russian="установка завершена.\nможно запускать игру!";
+LOWDETAILSTR:
+	english="Low.",
+	russian="низко.";
+MEDIUMDETAILSTR:
+	english="Medium.",
+	russian="средне.";
+HIGHDETAILSTR:
+	english="High.",
+	russian="высоко.";
+HISCORESTR:
+	english="Highscores",
+	russian="рекорды";
+POINTSTR:
+	english="points",
+	russian="очков";
+HOLESSTR:
+	english="holes",
+	russian="ўм";
+THEDEEPJUNGLESTR:
+	english="the deep jungle",
+	russian="дремучие джунгли";
+BANANASTR:
+	english="banana",
+	russian="банан";
+PINEAPPLESTR:
+	english="pineapple",
+	russian="ананас";
+PUMPKINSTR:
+	english="pumpkin",
+	russian="тыква";
+COCONUTSTR:
+	english="coconut",
+	russian="кокос";
+LOGSTR:
+	english="stump",
+	russian="пень";
+CONSTRUCTIONAREASTR:
+	english="construction area",
+	russian="стройка";
+BEACONSTR:
+	english="beacon",
+	russian="мигалка";
+SPRAYCANSTR:
+	english="spraycan",
+	russian="баллончик";
+SAWSTR:
+	english="saw",
+	russian="пила";
+HAMMERSTR:
+	english="hammer",
+	russian="молоток";
+CAPSTR:
+	english="helmet",
+	russian="каска";
+THEDARKCAVESTR:
+	english="the dark cave",
+	russian="тёмнаў пещера";
+DYNAMITESTR:
+	english="dynamite",
+	russian="динамит";
+LAMPSTR:
+	english="lamp",
+	russian="лампа";
+PICKSTR:
+	english="pick",
+	russian="кирка";
+GHOSTSTR:
+	english="ghost",
+	russian="призрак";
+ROCKSTR:
+	english="rock",
+	russian="камень";
+LAGOONISLANDSTR:
+	english="lagoon island",
+	russian="остров в лагуне";
+CONCHSTR:
+	english="conch",
+	russian="рапан";
+SEASHELLSTR:
+	english="seashell",
+	russian="ракушка";
+STARFISHSTR:
+	english="starfish",
+	russian="морскаў звезда";
+CHESTSTR:
+	english="chest",
+	russian="сундук";
+TIRESTR:
+	english="tire",
+	russian="шина";
+ANCIENTEGYPTSTR:
+	english="ancient egypt",
+	russian="древний египет";
+URNSTR:
+	english="urn",
+	russian="урна";
+COFFINSTR:
+	english="coffin",
+	russian="саркофаг";
+TORCHSTR:
+	english="torch",
+	russian="факел";
+TEABAGSTR:
+	english="teabag",
+	russian="чайный пакетик";
+PYRAMIDSTR:
+	english="pyramid",
+	russian="пирамида";
+PAUSESTR:
+	english="pause",
+	russian="пауза";
+STARTNEWGAMESTR:
+	english="Start game...",
+	russian="начать игру...";
+STARTGAMEATJUNGLESTR:
+	english="in the deep jungle",
+	russian="в дремучих джунглўх";
+STARTGAMEATCONSTRUCTIONSTR:
+	english="at the construction area",
+	russian="на стройке";
+STARTGAMEATCAVESTR:
+	english="in the dark cave",
+	russian="в тёмной пещере";
+STARTGAMEATWATERSTR:
+	english="at lagoon island",
+	russian="на острове в лагуне";
+STARTGAMEATEGYPTSTR:
+	english="in the ancient egypt",
+	russian="в древнем египте";
+NORMALSTR:
+	english="(normal)",
+	russian="(обычно)";
+EASYSTR:
+	english="(easy)",
+	russian="(легко)";
+HARDSTR:
+	english="(hard)",
+	russian="(сложно)";
+JOYSTICKSTR:
+	english="Joystick",
+	russian="джойстик";
+TEAMPLAYERSTR:
+	english="team play",
+	russian="команднаў игра";
+NUMBEROFPLAYERSSTR:
+	english="players",
+	russian="игроки";
+SPEECHSTR:
+	english="speech",
+	russian="речь";
+TEXTSTR:
+	english="text",
+	russian="текст";
+speech:
+	english=en,
+	russian=en;
+infofile:
+	english=info.en,
+	russian=info.ru;
+endtxt:
+	english=endtxt.en,
+	russian=endtxt.en;
