@@ -1,4 +1,4 @@
-Русская версия игры Drilling Billy(1997) + Запуск на Windows
+Русская версия игры Drilling Billy 1.25 + Запуск на Windows
 
 Запуск игры
 -----	
