@@ -11,11 +11,12 @@
 
 ---
 ## Скриншоты
-![Главное меню]({420EE138-86E8-4845-AF29-ADBB839BB33E}.png)
-![Настройки]({FF3D9096-8DC1-4A4C-8FE2-6FE910ABBD35}.png)
-![Описание]({4ACC702E-0526-4E77-932F-EBEEB8E7DC77}.png)
-![Загрузка уровня]({DCB564CF-FB11-4A12-9A6C-9ACFE6FBAA25}.png)
-![Уровень]({807EB854-5FC2-4C20-8F7A-07D15CB04D19}.png)
+
+<img width="1203" height="941" alt="{Главное меню}" src="https://github.com/user-attachments/assets/72ee3a68-ea09-42e8-8328-c9f7a83ea4f7" />
+<img width="1201" height="936" alt="{Настройки}" src="https://github.com/user-attachments/assets/1e35b464-33d8-4955-8e42-67d2d685e335" />
+<img width="1201" height="944" alt="{Описание}" src="https://github.com/user-attachments/assets/815140e8-0602-4bc5-bd2d-c0e219365069" />
+<img width="1200" height="939" alt="{Загрузка уровня}" src="https://github.com/user-attachments/assets/dbb48469-3e5b-4e07-bc11-5c020f9f62d5" />
+<img width="1202" height="932" alt="{Уровень}" src="https://github.com/user-attachments/assets/b9781de5-eb2d-4a8d-970c-9248e6dc93bb" />
 
 ---
 
